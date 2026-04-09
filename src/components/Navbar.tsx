@@ -68,7 +68,7 @@ export default function Navbar() {
 
         {/* Desktop CTA */}
         {!isMobile && (
-          <a href="https://github.com/yourusername/wp-run-now/releases/download/v1.0.0/WpRunNow-Setup-0.0.0.exe" download style={{
+          <a href="https://github.com/codersachin18/Wp-Run-Now/releases/download/v1.0.0/WpRunNow-Setup-0.0.0.exe" download style={{
             padding: '10px 22px', borderRadius: 100,
             background: 'linear-gradient(135deg,#7c3aed,#9333ea)',
             color: '#fff', fontSize: 13, fontWeight: 600, textDecoration: 'none',
@@ -102,7 +102,7 @@ export default function Navbar() {
               </a>
             )
           ))}
-          <a href="https://github.com/yourusername/wp-run-now/releases/download/v1.0.0/WpRunNow-Setup-0.0.0.exe" download style={{ padding: '12px 20px', borderRadius: 100, background: 'linear-gradient(135deg,#7c3aed,#9333ea)', color: '#fff', fontSize: 14, fontWeight: 600, textDecoration: 'none', textAlign: 'center' }}>
+          <a href="https://github.com/codersachin18/Wp-Run-Now/releases/download/v1.0.0/WpRunNow-Setup-0.0.0.exe" download style={{ padding: '12px 20px', borderRadius: 100, background: 'linear-gradient(135deg,#7c3aed,#9333ea)', color: '#fff', fontSize: 14, fontWeight: 600, textDecoration: 'none', textAlign: 'center' }}>
             Download Free
           </a>
         </div>

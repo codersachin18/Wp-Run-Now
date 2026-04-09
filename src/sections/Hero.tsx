@@ -51,7 +51,7 @@ export default function Hero() {
         {/* CTAs — below image */}
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.5 }}
           style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 16, flexWrap: 'wrap' }}>
-          <a href="https://github.com/yourusername/wp-run-now/releases/download/v1.0.0/WpRunNow-Setup-0.0.0.exe" download style={{
+          <a href="https://github.com/codersachin18/Wp-Run-Now/releases/download/v1.0.0/WpRunNow-Setup-0.0.0.exe" download style={{
             display: 'inline-flex', alignItems: 'center', gap: 8, padding: '14px 32px', borderRadius: 100,
             background: 'linear-gradient(135deg,#7c3aed,#9333ea)', color: '#fff',
             fontSize: 15, fontWeight: 600, textDecoration: 'none',
